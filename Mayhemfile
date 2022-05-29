@@ -1,0 +1,5 @@
+project: rnshah9/snowball
+target: snowball
+
+cmds:
+  - cmd: /repo/snowball @@ -o out
