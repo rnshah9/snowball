@@ -2,4 +2,4 @@ project: snowball
 target: snowball
 
 cmds:
-  - cmd: /repo/snowball @@ -o out
+  - cmd: /snowball @@ -o out
