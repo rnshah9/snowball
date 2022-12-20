@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_name_of_token
+          - mayhem/Mayhemfile_snowball
 
     steps:
       - uses: actions/checkout@v3

@@ -1,0 +1,6 @@
+project: snowball
+target: name-of-token
+
+cmds:
+  - cmd: /fuzz_name_of_token
+    libfuzzer: true
